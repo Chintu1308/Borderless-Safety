@@ -1,6 +1,6 @@
 # Borderless Safety - International Travel Intelligence Platform
 
-[View Live Platform](https://chintu1308.github.io/BorderlessSafety/)
+[View Live Platform](bs.bhhc.me)
 
 ---
 
