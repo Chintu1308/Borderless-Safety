@@ -1,6 +1,6 @@
 # Borderless Safety - International Travel Intelligence Platform
 
-[View Live Platform](bs.bhhc.me)
+[View Live Platform](https://bs.bhhc.me)
 
 ---
 
